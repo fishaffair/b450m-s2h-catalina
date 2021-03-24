@@ -44,4 +44,3 @@ I am succesful running mac OS Catalina 10.15.6 with this configuration.
 
 [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
 
-test message
